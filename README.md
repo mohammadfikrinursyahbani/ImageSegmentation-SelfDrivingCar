@@ -2,8 +2,7 @@
 
 Dalam Repository ini saya dari kelompok Al Khwarizmi melakukan implementasi model beberapa model deep learning UNET dan FCN8 dengan datasets CityScapes. Model Deep Learning yang kami coba implementasikan yakni:
 
-[url=https://ibb.co/G360Zhb][img]https://i.ibb.co/JF1KYhM/model.png[/img][/url]
-[url=https://id.imgbb.com/]membuat photo gallery[/url]
+![enter image description here](https://i.ibb.co/JF1KYhM/model.png)
 
 ## Strategi Implementasi Model
 Dalam implementasi model di atas kami menggunakan kriteria untuk uji coba yakni:
