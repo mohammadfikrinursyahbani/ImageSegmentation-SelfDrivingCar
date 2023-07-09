@@ -2,7 +2,11 @@
 
 Dalam Repository ini saya dari kelompok Al Khwarizmi melakukan implementasi model beberapa model deep learning UNET dan FCN8 dengan datasets CityScapes. Model Deep Learning yang kami coba implementasikan yakni:
 
+## Arsitektur U-NET
 ![enter image description here](https://i.ibb.co/JF1KYhM/model.png)
+
+## Arsitektur FCN 8
+![enter image description here](https://i.ibb.co/GkqqQ6K/model-1.png)
 
 ## Strategi Implementasi Model
 Dalam implementasi model di atas kami menggunakan kriteria untuk uji coba yakni:
