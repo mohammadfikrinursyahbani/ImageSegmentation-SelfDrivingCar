@@ -14,3 +14,8 @@ Dalam implementasi model di atas kami menggunakan kriteria untuk uji coba yakni:
 2. Learning rate yakni 1e-5 dan decay 1e-6
 3. Batch size yakni 4
 
+## Dependencies
+This lab requires **Python 3.10.11** and the following Python libraries installed:
+* Basic Libraries: [Pandas](https://pandas.pydata.org), [NumPy](http://www.numpy.org)
+* Visualization Libraries: [Matplotlib](http://matplotlib.org)
+* Deep Learning Libraries: [Scikit-Learn](https://www.tensorflow.org), [PyTorch](https://pytorch.org/)
